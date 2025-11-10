@@ -1,1 +1,42 @@
-Tugas 
+<html>
+  <head>
+    <title> Pertemanan Bagus dan Bintang</title>
+  </head>
+  <body>
+    <center>
+    <h1>Teman sebangku XII TKJ 1 </h1> <hr color="lightblue">
+    </center>
+   <br>
+   <h3> <font face="Times new roman">Bagus Kurniawan dan Bintang Akbar Utama dua orang murid dari XII TKJ 1. Mereka mengenal satu sama lain sejak awal masuk SMK.</font>
+   <br>
+   <br>Namun pada saat kelas duduk dibangku kelas X mereka tidak langsung duduk sebangku. Pada saat naik ke kelas XI, mereka mulai duduk sebangku.</h3> 
+   <br>
+   <center> <img width=450 src="foto1.jpg" /> </center> <center><h6> Foto di atas, saat mereka di kelas XI</h6></center>
+   <hr color="lightblue">
+    <hr color="lightblue">
+    <br>
+    <br>
+    <h3>Setelah menyelesaikan PKL di tempat perusahaan masing masing.</h3> 
+   <br>
+   <br>
+   <center><img width=200 src="bagus.jpg"/>
+    <img width=200 src="bintang.jpg"/></center>
+    <center><h6>foto di atas, Bagus dan Bintang di tempat PKL masing masing</h6></center>
+    <hr color="lightblue">
+    
+    <marquee bgcolor="lightblue" behavior="alternate"> Bintang dan Bagus teman sebangku dari Sekolah SMK Swasta Tarbiyah Islamiyah</marquee>
+   
+    <br> <h3>Mereka kembali ke sekolah, dan berencana saat dikelas naik kelas XII mereka akan duduk sebangku lagi.
+  <br>Tiba di bangku kelas XII mereka berhasil untuk duduk dibangku yang sama lagi.</h3>
+  <br>
+  <center><img width=450 src="foto2.jpg"</center>
+  <center><h6>foto ini ketika Bagus dan Bintang saat kelas XII</h6></center>
+  
+
+   
+  
+    
+    
+    
+  </body>
+</html>
